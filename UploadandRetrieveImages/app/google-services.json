@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789161209278",
+    "project_id": "uploadimage-5b171",
+    "storage_bucket": "uploadimage-5b171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789161209278:android:c3eda67a8e41f64f31ddef",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.uploadandretrieveimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789161209278-qm8pernhno4odnrvqm6habk85g5khv9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkrurIvfwynGubsiPS2VEgzKVhwoCAAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789161209278-qm8pernhno4odnrvqm6habk85g5khv9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
